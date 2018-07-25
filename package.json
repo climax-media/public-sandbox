@@ -1,0 +1,23 @@
+{
+  "name": "public-sandbox",
+  "version": "1.0.0",
+  "description": "A public repo for testing public repo things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tcrosen:EeA9BP4g@github.com/climax-media/public-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/climax-media/public-sandbox/issues"
+  },
+  "homepage": "https://github.com/climax-media/public-sandbox#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
